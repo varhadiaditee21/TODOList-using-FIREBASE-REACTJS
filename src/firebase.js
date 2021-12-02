@@ -7,8 +7,8 @@ let config = {
   databaseURL : "https://todo-list-tutorials-default-rtdb.firebaseio.com/",
   projectId: "todo-list-tutorials",
   storageBucket: "todo-list-tutorials.appspot.com",
-  messagingSenderId: "264040337337",
-  appId: "1:264040337337:web:193a5ea429ce1bf973f068",
+  messagingSenderId: "xxx",
+  appId: "xxx",
   measurementId: "G-ETB7SBNMWJ"
 };
 
